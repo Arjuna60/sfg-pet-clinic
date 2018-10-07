@@ -4,7 +4,7 @@
 
     <groupId>guru.springframework.sfgpetclinic</groupId>
     <artifactId>sfg-pet-clinic</artifactId>
-    <version>Y</version>
+    <version>0.0.3-SNAPSHOT</version>
     <modules>
         <module>pet-clinic-data</module>
         <module>pet-clinic-web</module>
@@ -44,5 +44,6 @@
     </build>
     <scm>
         <developerConnection>scm:git:git@github.com:Arjuna60/sfg-pet-clinic.git</developerConnection>
-   </scm>
+     <tag>HEAD</tag>
+  </scm>
 </project>
